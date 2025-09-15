@@ -1,2 +1,6 @@
-## Live Demo
-[![View Deployment](https://img.shields.io/badge/Live-Demo-blue)](https://assignment-dashboard121.vercel.app/)
+# Assignment Dashboard
+
+A simple dashboard project built with [your stack, e.g., React + Vite].
+
+## 🚀 Live Demo
+👉 [Assignment Dashboard on Vercel](https://assignment-dashboard121.vercel.app/)
